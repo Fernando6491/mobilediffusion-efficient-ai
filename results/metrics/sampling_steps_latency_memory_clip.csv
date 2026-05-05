@@ -1,0 +1,26 @@
+prompt_id,prompt,steps,latency_seconds,peak_memory_gb,image_path,clip_score
+0,A dog wearing sunglasses on the beach,1,2.398458242416382,2.617337703704834,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_1_prompt_0.png,0.18353725969791412
+1,A futuristic city at sunset,1,0.3464713096618652,2.617337703704834,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_1_prompt_1.png,0.16489268839359283
+2,A bowl of fruit on a wooden table,1,0.3840746879577636,2.617337703704834,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_1_prompt_2.png,0.19025549292564392
+3,A robot reading a book in a library,1,0.3721480369567871,2.617337703704834,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_1_prompt_3.png,0.19163450598716736
+4,A flower garden when raining,1,0.3692977428436279,2.617337703704834,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_1_prompt_4.png,0.2432507574558258
+0,A dog wearing sunglasses on the beach,4,0.9559743404388428,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_4_prompt_0.png,0.2615625262260437
+1,A futuristic city at sunset,4,0.9605278968811036,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_4_prompt_1.png,0.2716454863548279
+2,A bowl of fruit on a wooden table,4,0.9636883735656738,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_4_prompt_2.png,0.3364638388156891
+3,A robot reading a book in a library,4,0.9618632793426514,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_4_prompt_3.png,0.3443414568901062
+4,A flower garden when raining,4,0.965139865875244,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_4_prompt_4.png,0.3041576147079468
+0,A dog wearing sunglasses on the beach,8,1.5621521472930908,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_8_prompt_0.png,0.37111684679985046
+1,A futuristic city at sunset,8,1.5699410438537598,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_8_prompt_1.png,0.3133098781108856
+2,A bowl of fruit on a wooden table,8,1.5711781978607178,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_8_prompt_2.png,0.29713141918182373
+3,A robot reading a book in a library,8,1.5937018394470217,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_8_prompt_3.png,0.38416653871536255
+4,A flower garden when raining,8,1.5656273365020752,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_8_prompt_4.png,0.3126556873321533
+0,A dog wearing sunglasses on the beach,20,3.3811440467834477,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_20_prompt_0.png,0.35310691595077515
+1,A futuristic city at sunset,20,3.4072601795196533,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_20_prompt_1.png,0.30364084243774414
+2,A bowl of fruit on a wooden table,20,3.4415197372436523,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_20_prompt_2.png,0.3242340683937073
+3,A robot reading a book in a library,20,3.4883337020874023,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_20_prompt_3.png,0.34167957305908203
+4,A flower garden when raining,20,3.4848058223724365,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_20_prompt_4.png,0.30911609530448914
+0,A dog wearing sunglasses on the beach,50,8.26583981513977,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_50_prompt_0.png,0.357622891664505
+1,A futuristic city at sunset,50,8.370785474777222,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_50_prompt_1.png,0.31723350286483765
+2,A bowl of fruit on a wooden table,50,8.498846530914307,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_50_prompt_2.png,0.32064518332481384
+3,A robot reading a book in a library,50,10.6166033744812,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_50_prompt_3.png,0.3330272436141968
+4,A flower garden when raining,50,8.784661054611206,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_50_prompt_4.png,0.3100177049636841

@@ -1,0 +1,26 @@
+prompt_id,prompt,steps,latency_seconds,peak_memory_gb,image_path
+0,A dog wearing sunglasses on the beach,1,2.398458242416382,2.617337703704834,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_1_prompt_0.png
+1,A futuristic city at sunset,1,0.34647130966186523,2.617337703704834,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_1_prompt_1.png
+2,A bowl of fruit on a wooden table,1,0.38407468795776367,2.617337703704834,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_1_prompt_2.png
+3,A robot reading a book in a library,1,0.3721480369567871,2.617337703704834,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_1_prompt_3.png
+4,A flower garden when raining,1,0.36929774284362793,2.617337703704834,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_1_prompt_4.png
+0,A dog wearing sunglasses on the beach,4,0.9559743404388428,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_4_prompt_0.png
+1,A futuristic city at sunset,4,0.9605278968811035,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_4_prompt_1.png
+2,A bowl of fruit on a wooden table,4,0.9636883735656738,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_4_prompt_2.png
+3,A robot reading a book in a library,4,0.9618632793426514,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_4_prompt_3.png
+4,A flower garden when raining,4,0.9651398658752441,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_4_prompt_4.png
+0,A dog wearing sunglasses on the beach,8,1.5621521472930908,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_8_prompt_0.png
+1,A futuristic city at sunset,8,1.5699410438537598,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_8_prompt_1.png
+2,A bowl of fruit on a wooden table,8,1.5711781978607178,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_8_prompt_2.png
+3,A robot reading a book in a library,8,1.5937018394470215,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_8_prompt_3.png
+4,A flower garden when raining,8,1.5656273365020752,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_8_prompt_4.png
+0,A dog wearing sunglasses on the beach,20,3.3811440467834473,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_20_prompt_0.png
+1,A futuristic city at sunset,20,3.4072601795196533,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_20_prompt_1.png
+2,A bowl of fruit on a wooden table,20,3.4415197372436523,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_20_prompt_2.png
+3,A robot reading a book in a library,20,3.4883337020874023,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_20_prompt_3.png
+4,A flower garden when raining,20,3.4848058223724365,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_20_prompt_4.png
+0,A dog wearing sunglasses on the beach,50,8.26583981513977,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_50_prompt_0.png
+1,A futuristic city at sunset,50,8.370785474777222,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_50_prompt_1.png
+2,A bowl of fruit on a wooden table,50,8.498846530914307,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_50_prompt_2.png
+3,A robot reading a book in a library,50,10.616603374481201,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_50_prompt_3.png
+4,A flower garden when raining,50,8.784661054611206,2.617398738861084,/content/drive/MyDrive/mobilediffusion-efficient-ai/results/images/steps_50_prompt_4.png
