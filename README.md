@@ -54,7 +54,7 @@ Repository Structure
 mobilediffusion-efficient-ai/
 │
 ├── notebooks/
-│   └── sampling_experiment.ipynb
+│   └── sampling_experiment_github_clean.ipynb
 │
 ├── results/
 │   ├── figures/
