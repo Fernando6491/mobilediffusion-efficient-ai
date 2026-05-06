@@ -112,4 +112,5 @@ Libraries Used
 This project was developed for educational and research purposes as part of a machine learning course project.
 =====================================================================
 Notes
-Some additional experiments and extensions may be added later as part of ongoing work related to MobileDiffusion-style optimization and efficiency analysis.
+-Some additional experiments and extensions may be added later as part of ongoing work related to MobileDiffusion-style optimization and efficiency analysis.
+-The notebook was optimized for Github rendering compatibility. If needed, the notebook can also be opened directly in Google Colab. 
